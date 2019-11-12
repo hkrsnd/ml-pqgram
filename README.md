@@ -8,7 +8,7 @@ This is an implementation of the metric learning method for tree-structured data
  
 ***DEMO:***
  
-![Demo](https://raw.github.com/wiki/hkrsnd/ml-pqgram/demo/demo.gif)
+![Demo](https://raw.github.com/wiki/hkrsnd/ml-pqgram/demo.gif)
 
 
 ## How to use
