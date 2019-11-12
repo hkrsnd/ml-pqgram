@@ -2,7 +2,8 @@
 
 An Implementation of Metric Learning for Ordered Labeled Trees with pq-grams
  
-![abst](https://user-images.githubusercontent.com/9132856/68641098-29323b80-054d-11ea-80a0-0af9267269fc.png)
+<img src="https://user-images.githubusercontent.com/9132856/68641098-29323b80-054d-11ea-80a0-0af9267269fc.png" width=60%>
+
 ## Description
 
 This is an implementation of the metric learning method for tree-structured data using pq-grams.
