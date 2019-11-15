@@ -18,15 +18,13 @@ This is an implementation of the metric learning method for tree-structured data
 
 ### Dependencies
 
-This tutorial depends on the following libraries:
-
-* PyTorch
+See the requirements file.
 
 Also, this code should be compatible with Python versions 3.x.
 
 ### Follow demo notebook
 
-You will see the metric learning result of test problem.
+You will see the metric learning result of the simple test problem.
 
 
 ## License
