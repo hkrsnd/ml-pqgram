@@ -28,5 +28,5 @@ Also, this code should be compatible with Python versions 3.x.
 You will see the metric learning result of the simple test problem.
 
 
-# LICENSE
- This software is released under the MIT License, see LICENSE.txt.
+## LICENSE
+This software is released under the MIT License, see LICENSE.txt.
