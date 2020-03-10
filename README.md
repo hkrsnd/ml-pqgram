@@ -1,6 +1,7 @@
 # ml-pqgram
 
-An Implementation of Metric Learning for Ordered Labeled Trees with pq-grams
+An Implementation of [Metric Learning for Ordered Labeled Trees with pq-grams](https://arxiv.org/abs/2003.03960)
+
 
 ![abst](https://user-images.githubusercontent.com/9132856/68642934-f428e780-0552-11ea-97b2-8bf05a2c5689.png)
 
