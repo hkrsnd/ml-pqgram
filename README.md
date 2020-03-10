@@ -10,7 +10,7 @@ This is an implementation of the metric learning method for tree-structured data
  
 ***DEMO:***
  
- ![](https://user-images.githubusercontent.com/9132856/68640279-92647f80-054a-11ea-9c59-2e47d75c3f3f.gif)
+![demo](https://user-images.githubusercontent.com/9132856/76282261-8d39f600-62da-11ea-8d85-9a8a5e84bd3e.gif) 
 
 
 
